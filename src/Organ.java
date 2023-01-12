@@ -24,7 +24,7 @@ public class Organ {
         return medicalCondition;
     }
 
-    public void setMedicalCondition(String medicalCondition) {
-        this.medicalCondition = medicalCondition;
-    }
+//    public void setMedicalCondition(String medicalCondition) {
+//        this.medicalCondition = medicalCondition;
+//    }
 }

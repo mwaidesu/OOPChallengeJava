@@ -61,15 +61,15 @@ public class Patient {
         return stomach;
     }
 
-    public void setStomach(Stomach stomach) {
-        this.stomach = stomach;
-    }
+//    public void setStomach(Stomach stomach) {
+//        this.stomach = stomach;
+//    }
 
     public Skin getSkin() {
         return skin;
     }
-
-    public void setSkin(Skin skin) {
-        this.skin = skin;
-    }
+//
+//    public void setSkin(Skin skin) {
+//        this.skin = skin;
+//    }
 }
